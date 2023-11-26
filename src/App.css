@@ -1,0 +1,114 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  color: aliceblue;
+  background-color: #070606;
+  margin: 0px 150px;
+  
+}
+
+/* HEADER */
+
+.section-header{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+ 
+}
+
+.text-header{
+  margin: 0px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+/* HERO */
+
+
+
+.tour-eiffel{
+  position: absolute;
+  width: 795px;
+  height: 720px;
+  top: 0px;
+  right: 0px;
+  padding-right: 165px;
+  z-index: -1;
+}
+
+.hero-text{
+  font-size: 34px;
+  line-height: 30px;
+  padding: 140px 0px 67px 0px;
+}
+
+.underline-hero{
+  text-decoration: underline;
+}
+
+.small-text{
+  font-size: 18px;
+  width: 300px;
+}
+
+.trait-hero{
+ padding-top: 340px;
+ width: 1360px;
+}
+
+
+/* MAIN */
+
+
+.grid-framework{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  font-size: 48px;
+}
+
+.text-projet{
+  font-size: 72px;
+}
+
+
+/* GRID CARD */
+
+.grid-card{
+  width: 100%;
+  gap:30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  margin-bottom: 400px;
+
+}
+
+
+.image-site {
+  width: 410px;
+  height: 290px;
+  object-fit: cover;
+}
+
+.title{
+  font-size: 14px;
+}
+
+
+
+
+/* FOOTER */
+.footer-container{
+  height: 510px;
+  background-color: #242424;
+  margin: 0px 0px;
+}
+
+.footer-header{
+  display: flex;
+  background-color: #242424;
+}
+  
+
