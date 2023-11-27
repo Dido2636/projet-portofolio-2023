@@ -4,9 +4,11 @@
 function Main(props) {
     return (
         <>
+   
+
         <div className="container-main">
 
-
+        <hr />
             <div  className="grid-framework">
             <h5>HTML</h5>
             <h5>CSS</h5>
@@ -19,8 +21,14 @@ function Main(props) {
             <h5>React</h5>
             
         </div>
-        <div>
+        <div className="projet-button">
+            <div>
             <h1 className="text-projet">Projets</h1>
+            </div>
+           <div className="box-button">
+           <button className="button-projet">CONTACTEZ-MOI</button>
+           </div>
+            
         </div>
 
 

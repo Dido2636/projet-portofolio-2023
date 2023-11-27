@@ -5,7 +5,8 @@ import Header from "./components/header";
 import Hero from "./components/hero";
 import Main from "./components/main";
 import Footer from "./components/footer";
-import Footerheader from "./components/footerheader";
+
+
 
 
 const projets = [
@@ -18,56 +19,56 @@ const projets = [
   },
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/aai6z-x7f39.jpg",
+    imageUrl: "https://i.imgur.com/3yNJlm4.png",
     title: "PORTFOLIO",
     framework: "TYPESCRIPT REACT",
     
   },
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/asown-n4fky.jpg",
+    imageUrl: "https://i.imgur.com/Mcw9dld.png",
     title: "POMODORO APP",
     framework: "TAILWIND TYPESCRIPT REACT",
     
   }, 
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/a5b4w-bu6jb.jpg",
+    imageUrl: "https://i.imgur.com/hAIVk0B.png",
     title: "EDITEUR MARKDOWN",
     framework: "SCSS TYPESCRIPT REACT",
     
   },
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/ayns1-liesn.jpg",
+    imageUrl: "https://i.imgur.com/t8Q7eSY.png",
     title: "REST COUNTRIES API",
     framework: "CSS TYPESCRIPT VUE",
     
   },
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/at4cm-s0hyo.jpg",
+    imageUrl: "https://i.imgur.com/hyoS7fZ.png",
     title: "APPLICATION DE CALCULATRICE",
     framework: "CSS TYPESCRIPT VUE",
     
   },
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/a5ven-ufboi.jpg",
+    imageUrl: "https://i.imgur.com/5tw58tT.png",
     title: "DRUM MACHINE",
     framework: "STYLED COMPONENTS TYPESCRIPT VUE",
     
   },
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/aa542-iosbg.jpg",
+    imageUrl: "https://i.imgur.com/CN0CfWn.png",
     title: "SITE DE TOURISME DANS L'ESPACE",
     framework: "HTML CSS TYPESCRIPT",
     
   },
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/alarg-6jj0y.jpg",
+    imageUrl: "https://i.imgur.com/WjHGcmh.png",
     title: "RANDOM QUOTE APP",
     framework: "CSS REACT API",
     
@@ -92,7 +93,8 @@ function App() {
       } ) }
       </div>
       <Footer/>
-      <Footerheader/>
+   
+    
       
 
 
