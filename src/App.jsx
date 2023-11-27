@@ -11,7 +11,7 @@ import Footerheader from "./components/footerheader";
 const projets = [
   {
     
-    imageUrl: "https://s4.aconvert.com/convert/p3r68-cdx67/a2z2k-mkd3a.jpg",
+    imageUrl: "https://i.imgur.com/ik2MfjF.jpg",
     title: "AIRBNB-CLONE-2023",
     framework: "TAILWIND TYPESCRIPT REACT",
     

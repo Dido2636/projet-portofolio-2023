@@ -2,15 +2,15 @@
 
 
 
-function Grid(props) {
+function Grid({imageUrl, title, framework}) {
     return (
         <>
 
 
         <div className="card">
-          <img className="image-site" src={props.imageUrl}  />
-          <h2 className="title">{props.title}</h2>
-          <p className="framework">{props.framework}</p>
+          <img className="image-site" src={imageUrl}  />
+          <h2 className="title">{title}</h2>
+          <p className="framework">{framework}</p>
         </div>
 
 
